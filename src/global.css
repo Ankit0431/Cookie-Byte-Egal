@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-roboto: Roboto;
+  --font-alegreya: Alegreya;
+  --font-source-code-pro: "Source Code Pro";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-41xl: 60px;
+  --font-size-sm: 14px;
+  --font-size-31xl: 50px;
+  --font-size-9xl: 28px;
+  --font-size-6xl: 25px;
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-smi: 13px;
+  --font-size-16xl: 35px;
+  --font-size-mini: 15px;
+  --font-size-81xl: 100px;
+  --font-size-3xs: 10px;
+  --font-size-19xl-8: 38.8px;
+  --font-size-34xl-4: 53.4px;
+  --font-size-10xl: 29px;
+  --font-size-78xl: 97px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-mediumseagreen-100: #4fc786;
+  --color-mediumseagreen-200: #25ab75;
+  --color-seagreen: #188759;
+  --color-white: #fff;
+  --studio-darkmode-maincta-457eff: #457eff;
+  --studio-darkmode-explainertext-485269: #485269;
+  --color-slateblue: #6967da;
+  --color-darkslategray-100: #40495e;
+  --color-indianred: #f4596c;
+  --studio-darkmode-popuplabels-5e6a86: #5e6a86;
+
+  /* Gaps */
+  --gap-31xl: 50px;
+  --gap-3xl: 22px;
+  --gap-3xs: 10px;
+  --gap-21xl: 40px;
+  --gap-63xl: 82px;
+  --gap-mini: 15px;
+  --gap-lgi: 19px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+  --padding-24xl: 43px;
+  --padding-11xl: 30px;
+  --padding-21xl: 40px;
+  --padding-101xl: 120px;
+  --padding-61xl: 80px;
+  --padding-xl: 20px;
+  --padding-243xl: 262px;
+  --padding-41xl: 60px;
+  --padding-81xl: 100px;
+  --padding-22xl: 41px;
+  --padding-75xl: 94px;
+  --padding-3xs: 10px;
+  --padding-34xl: 53px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-181xl: 200px;
+  --br-base-5: 15.5px;
+}

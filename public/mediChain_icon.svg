@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="150" cy="150" r="150" fill="##7db8c2" />
+  <circle cx="120" cy="120" r="7" fill="white" />
+  <circle cx="180" cy="120" r="7" fill="white" />
+  <circle cx="120" cy="180" r="7" fill="white" />
+  <circle cx="180" cy="180" r="7" fill="white" />
+  <circle cx="150" cy="150" r="7" fill="white" />
+  <circle cx="120" cy="150" r="7" fill="white" />
+  <circle cx="180" cy="150" r="7" fill="white" />
+</svg>
